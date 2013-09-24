@@ -1,0 +1,5 @@
+C:\Users\dmason.TRUEFIT\Documents\GitHub\HoneyDoList\HoneyDoList\HoneyDoList.Database\bin\Debug\HoneyDoList.Database.dacpac
+C:\Users\dmason.TRUEFIT\Documents\GitHub\HoneyDoList\HoneyDoList\HoneyDoList.Database\bin\Debug\HoneyDoList.Database.dll
+C:\Users\dmason.TRUEFIT\Documents\GitHub\HoneyDoList\HoneyDoList\HoneyDoList.Database\bin\Debug\HoneyDoList.Database.pdb
+C:\Users\dmason.TRUEFIT\Documents\GitHub\HoneyDoList\HoneyDoList\HoneyDoList.Database\obj\Debug\HoneyDoList.Database.dll
+C:\Users\dmason.TRUEFIT\Documents\GitHub\HoneyDoList\HoneyDoList\HoneyDoList.Database\obj\Debug\HoneyDoList.Database.pdb

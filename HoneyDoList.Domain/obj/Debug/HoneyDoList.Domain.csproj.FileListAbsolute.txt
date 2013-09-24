@@ -1,0 +1,5 @@
+C:\Users\dmason.TRUEFIT\Documents\GitHub\HoneyDoList\HoneyDoList\HoneyDoList.Domain\bin\Debug\HoneyDoList.Domain.dll
+C:\Users\dmason.TRUEFIT\Documents\GitHub\HoneyDoList\HoneyDoList\HoneyDoList.Domain\bin\Debug\HoneyDoList.Domain.pdb
+C:\Users\dmason.TRUEFIT\Documents\GitHub\HoneyDoList\HoneyDoList\HoneyDoList.Domain\obj\Debug\HoneyDoList.Domain.csprojResolveAssemblyReference.cache
+C:\Users\dmason.TRUEFIT\Documents\GitHub\HoneyDoList\HoneyDoList\HoneyDoList.Domain\obj\Debug\HoneyDoList.Domain.dll
+C:\Users\dmason.TRUEFIT\Documents\GitHub\HoneyDoList\HoneyDoList\HoneyDoList.Domain\obj\Debug\HoneyDoList.Domain.pdb
