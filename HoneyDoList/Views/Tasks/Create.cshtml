@@ -1,0 +1,16 @@
+﻿@model HoneyDoList.Models.TaskModel
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+@using (Html.BeginForm("Submit", "TasksController", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+
+    <fieldset>
+        @Html.Label("Task Name") <br /> @Html.TextBox("TaskName")<br />
+        @Html.Label("Task Description") <br />  @Html.TextArea("TaskDescription")<br /><br />
+        <input type="submit" value="Submit" />
+    </fieldset>
+}

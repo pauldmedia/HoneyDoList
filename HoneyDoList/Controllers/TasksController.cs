@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Web.Mvc;
 using HoneyDoList.Domain.Entities;
+using HoneyDoList.Models;
 
 namespace HoneyDoList.Controllers
 {
@@ -20,7 +21,13 @@ namespace HoneyDoList.Controllers
 
     public ActionResult Details(int id)
     {
-      return View();
+        var MyTask = new TaskModel();
+
+        MyTask.TaskName = "This is the awesome name of my task";
+        MyTask.TaskDescription = "This is my awesome task description.This is my awesome task description.This is my awesome task description. ";
+        MyTask.TaskDate = new System.DateTime();
+        MyTask.TaskId = 12;
+      return View(MyTask);
     }
 
     //

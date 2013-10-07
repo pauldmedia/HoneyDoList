@@ -1,0 +1,18 @@
+﻿@model HoneyDoList.Models.TaskModel
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm("Submit", "TasksController", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+
+    <fieldset>
+        @Html.Label("Task Name") <br /> @Html.TextBox("TaskName")<br />
+        @Html.Label("Task Description") <br />  @Html.TextArea("TaskDescription")<br />
+        <p class="task-rank">Task Rank: @Model.TaskRank</p>
+        <p><span class="task-id">Task Item # @Model.TaskId</span> | <span class="task-date">@Model.TaskDate</span></p>
+        <input type="submit" value="Submit" />
+    </fieldset>
+}
